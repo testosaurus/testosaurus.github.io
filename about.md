@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Some information about you! I am a dinosaur! And I am testing github hosted blogs!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Nope, that's all the information you'll get. Nothing to see here. 
 
 ### Contact me
 
